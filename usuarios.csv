@@ -1,0 +1,9 @@
+idUsuario,nombre,apellido1,apellido2,dni,activo,borrado
+1,marcos,garcia,lopez,56723456,true,false,2,Paul,Ghetea,Ghetea,X4891025Y,false,false,3,Victor,Segura,Garcia,X8484848Y,true,false,4,Oscar,Del,aMo,s,true,false,5,Paul,García,Lorca,X4894025Z,true,false,6,Pablo,Lopez,Lopez,x3p3p,true,false,7,Jorge,García,Perez,Xlk,true,false,8,Oscar,Isaac,.,DNIDEOSC,false,false1,marcos,garcia,lopez,56723456,true,false,2,Paul,Ghetea,Ghetea,X4891025Y,false,false,3,Victor,Segura,Garcia,X8484848Y,true,false,4,Oscar,Del,aMo,s,true,false,5,Paul,García,Lorca,X4894025Z,true,false,6,Pablo,Lopez,Lopez,x3p3p,true,false,7,Jorge,García,Perez,Xlk,true,false,8,Oscar,Isaac,.,DNIDEOSC,false,false1,marcos,garcia,lopez,56723456,true,false,2,Paul,Ghetea,Ghetea,X4891025Y,false,false,3,Victor,Segura,Garcia,X8484848Y,true,false,4,Oscar,Del,aMo,s,true,false,5,Paul,García,Lorca,X4894025Z,true,false,6,Pablo,Lopez,Lopez,x3p3p,true,false,7,Jorge,García,Perez,Xlk,true,false,8,Oscar,Isaac,.,DNIDEOSC,false,false1,1,marcos,marcos,garcia,garcia,lopez,lopez,56723456,56723456,true,true,false,false,2,2,Paul,Paul,Ghetea,Ghetea,Ghetea,Ghetea,X4891025Y,X4891025Y,false,false,false,false,3,3,Victor,Victor,Segura,Segura,Garcia,Garcia,X8484848Y,X8484848Y,true,true,false,false,4,4,Oscar,Oscar,Del,Del,aMo,aMo,s,s,true,true,false,false,5,5,Paul,Paul,García,García,Lorca,Lorca,X4894025Z,X4894025Z,true,true,false,false,6,6,Pablo,Pablo,Lopez,Lopez,Lopez,Lopez,x3p3p,x3p3p,true,true,false,false,7,7,Jorge,Jorge,García,García,Perez,Perez,Xlk,Xlk,true,true,false,false,8,8,Oscar,Oscar,Isaac,Isaac,.,.,DNIDEOSC,DNIDEOSC,false,false,false,false1,marcos,garcia,lopez,56723456,true,false
+2,Paul,Ghetea,Ghetea,X4891025Y,false,false
+3,Victor,Segura,Garcia,X8484848Y,true,false
+4,Oscar,Del,aMo,s,true,false
+5,Paul,García,Lorca,X4894025Z,true,false
+6,Pablo,Lopez,Lopez,x3p3p,true,false
+7,Jorge,García,Perez,Xlk,true,false
+8,Oscar,Isaac,.,DNIDEOSC,false,false
